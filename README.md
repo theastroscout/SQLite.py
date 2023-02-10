@@ -4,7 +4,7 @@
 
 ## Installation
 ```
-pip3 install sqlite
+pip3 install Surfy.SQLite
 ```
 
 ## Usage
